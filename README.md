@@ -1,6 +1,16 @@
 # gScramble
 
-Author: BrutalGoerge
+## [BROKEN]
+
+```
+SourcePawn Compiler 1.10.0.6478
+Copyright (c) 1997-2006 ITB CompuPhase
+Copyright (c) 2004-2018 AlliedModders LLC
+
+**/tf/addons/sourcemod/scripting/include/gameme.inc(48) : fatal error 196: deprecated syntax; see https://wiki.alliedmods.net/SourcePawn_Transitional_Syntax#Typedefs
+```
+
+## Author: BrutalGoerge
 
 <table>
   <thead>
